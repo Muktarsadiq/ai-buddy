@@ -1,0 +1,10 @@
+/Users/user/Desktop/ai-buddy/target/debug/deps/libeventsource_stream-b14d41a716f5ec0e.rmeta: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/event.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/event_stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/parser.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/traits.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/Users/user/Desktop/ai-buddy/target/debug/deps/eventsource_stream-b14d41a716f5ec0e.d: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/event.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/event_stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/parser.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/traits.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/event.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/event_stream.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/parser.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/traits.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eventsource-stream-0.2.3/src/utf8_stream.rs:
